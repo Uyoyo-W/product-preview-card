@@ -96,6 +96,7 @@ main{
     color: hsl(0, 0%, 100%);
     font-weight: 700;
     margin-left: 0.8rem;
+    padding: 1rem;
 }
 
 .attribution { 
