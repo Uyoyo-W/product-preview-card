@@ -6,12 +6,13 @@ body{
     justify-content: center;
     align-items: center;
     margin: 0;
+    padding: 16px;
     font-family: "Montserrat", sans-serif;
 }
 
 main{
     background-color: hsl(0, 0%, 100%);
-    margin: 1rem 1rem;
+    /* margin: 1rem 1rem; */
     max-width: 600px;
     border-radius: 10px;
 }
