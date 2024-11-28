@@ -5,7 +5,8 @@ body{
     justify-content: center;
     align-items: center;
     /* height: calc(100vh - 32px); Subtracts top and bottom padding (16px + 16px) */
-    height: 100vh;
+    /* height: 100vh; */
+    height: calc(100vh - 32px);
     padding: 16px;
     margin: 0;
     font-family: "Montserrat", sans-serif;
