@@ -92,7 +92,7 @@ main{
     background-color: hsl(158, 52%, 25%);
 }
 
-.details button p{
+.details button span{
     color: hsl(0, 0%, 100%);
     font-weight: 700;
     margin-left: 0.8rem;
